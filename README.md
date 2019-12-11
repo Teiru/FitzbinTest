@@ -1,6 +1,6 @@
 # FitzbinTest
 
-Die Sprites habe ich aus folgenden quellen her:
+Die Sprites habe ich aus folgenden Quellen:
 
 CharacterSprite: https://rvros.itch.io/animated-pixel-hero
 
